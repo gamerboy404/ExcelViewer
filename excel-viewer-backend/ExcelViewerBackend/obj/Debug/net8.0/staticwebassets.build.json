@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SlekTXNfL7FKCG/cNDAIdhMgJgFEtLfuOh3d5EfLBIo=",
+  "Source": "ExcelViewerBackend",
+  "BasePath": "_content/ExcelViewerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
